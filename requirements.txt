@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+tensorflow
+keras
+torch
+torchvision
+gradio
+streamlit
