@@ -1,0 +1,48 @@
+# =========================
+# DATASETS
+# =========================
+dataset/
+datasets/
+dataset_balanced/
+data/
+*.csv
+*.xlsx
+*.json
+
+# =========================
+# DOWNLOADS / ARCHIVES
+# =========================
+drive-download-*
+*.zip
+
+# =========================
+# TRAINED MODELS (DO NOT PUSH)
+# =========================
+*.h5
+*.keras
+*.pkl
+
+# =========================
+# IMAGES (RAW / GENERATED)
+# =========================
+*.jpeg
+*.jpg
+*.png
+*.webp
+
+# =========================
+# GRADIO / STREAMLIT RUNTIME
+# =========================
+.gradio/
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# VIRTUAL ENV
+# =========================
+venv/
+.env/
